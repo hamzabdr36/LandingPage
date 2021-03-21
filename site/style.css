@@ -1,0 +1,238 @@
+#image{
+    float: right;
+    width: 50%;
+    height: 50%;
+}
+#image2{
+    width: 30%;
+    height: 30%;
+    padding: 0;
+    margin: 0;
+    
+    
+}
+
+body{
+
+
+ 
+}
+
+.heading0{
+    color: rgb(2, 88, 88);
+    letter-spacing: 2px;
+    font-size: 40px;
+}
+#tek{
+    color: rgb(218, 132, 34);
+    letter-spacing: 3px;
+    font-size: 18px;
+}
+h2{
+    font-family: Calibri;
+    font-weight: bolder;
+    
+}
+
+h4{
+    font-family: calibri;
+}
+
+.line-height{
+    line-height: 0%;
+}
+
+
+
+.div2{
+    margin-top: 10%;
+
+}
+
+.div2 h2{
+    font-size: 40px;
+
+}
+
+
+.div0{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+    /*margin-top: 4%;
+    margin-left: 4%;
+    background-image: url('pngwing.com.png');
+    background-repeat: no-repeat;
+    background-position: 100% 4%;*/
+   
+    margin-left: 3%;
+   margin-right: 3%;
+   
+    background-size: 40%;
+}
+
+.nav-bar{
+    list-style: none;
+    background-color:rgb(255, 255, 255);
+ 
+  
+   
+ 
+  padding: 10px;
+  overflow: hidden;
+  
+  right:0;
+  width: 98.5%;
+  
+}
+
+.nav-item{
+   
+
+    float: right;
+    margin-right: 2.1%;
+}
+.nav-item a{
+    display: block;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 15px 17px;
+    /*margin-top: 30px;*/
+    text-decoration: none;
+    font-size: 17px;
+    font-family: sans-serif;
+    font-weight: 540;
+}
+
+.nav-item a:hover{
+    color: rgb(73, 73, 216);
+    
+}
+.Home a{
+    color: rgb(73, 73, 216);
+}
+
+.img-item{
+    float: left;
+   margin-left: 2%;
+    
+}
+.img-item a{
+    text-align: center;
+  
+    text-decoration: none;
+    
+}
+
+#heading1{
+    color: rgb(13, 135, 139);
+}
+#heading2{
+    color: rgb(23, 87, 139);
+}
+#sub1{
+    color: rgb(15, 95, 62) ;
+    font-family:calibri;
+    font-size: 18px;
+}
+#p1{
+    color: rgb(0, 0, 0);
+    font-family: calibri;
+    font-size: 20px;
+}
+
+#b1{
+    background-color:#4c5baf ;
+    color: rgb(255, 255, 255);
+    border: 0 solid#4c5baf;
+    border-radius: 10px;
+    height: 50px;
+    width: 150px;
+    font-size: 17px;
+    padding: 15px 17px;
+    font-family: sans-serif;
+    font-weight: 540;
+    text-decoration: none;
+    text-align: center;
+    display: block;
+}
+
+#b1:hover{
+    background-color:#181e3d ;
+    color: rgb(255, 255, 255);
+    border: 0 solid#181e3d ;
+    border-radius: 10px;
+    height: 50px;
+    width: 150px;
+    font-size: 17px;
+    padding: 15px 17px;
+    font-family: sans-serif;
+    font-weight: 540;
+    text-decoration: none;
+    text-align: center;
+    display: block;
+}
+
+#image3{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20%;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.137);
+}
+#divbox{
+   
+    
+   
+    border: 15px solid rgba(5, 3, 131, 0.911);
+    padding: 50px;
+    text-align: center;
+    margin:3%;
+    width: 85%;
+    height: 200px;
+    background-color:rgb(5, 3, 131); 
+}
+
+.bluetxt{
+    text-align: center;
+    color: white;
+    font-family: Calibri;
+   
+}
+#bluesub{
+    font-size: 20px;
+}
+#blueheading{
+    font-weight: bolder;
+    font-size: 35px;
+}
+#divbox2{
+    border: 15px solid rgb(3, 127, 131);
+    padding: 50px;
+    text-align: center;
+    margin:3%;
+    width: 85%;
+    height: 500px;
+    background-color:rgb(3, 127, 131); 
+}
+
+.block {
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    background-color: rgb(255, 255, 255);
+    padding: 50px;
+    margin: 3%;
+    border-radius: 12px;
+    font-family: calibri;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.137);
+
+  }
+  .block img {
+    width: 100px;
+    height: 100px;
+   }
+
+ #img3{
+     width: 120px;
+     height: 120px;
+ }
